@@ -10,6 +10,9 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@expo/vector-icons": "^13.0.0",
+    "expo-font": "^10.2.0",
+    "expo-status-bar": "^1.4.0",
     "react": "16.13.1",
     "react-native": "0.63.3"
   },
